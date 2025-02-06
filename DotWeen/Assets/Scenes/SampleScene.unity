@@ -768,7 +768,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 828536297}
-  duration: 1
+  duration1: 0.01
+  duration2: 0.5
+  duration3: 0.5
+  HowManyTo: 0
 --- !u!1 &844591164
 GameObject:
   m_ObjectHideFlags: 0
@@ -1508,5 +1511,5 @@ SceneRoots:
   m_Roots:
   - {fileID: 963194228}
   - {fileID: 705507995}
-  - {fileID: 828536297}
   - {fileID: 1249872799}
+  - {fileID: 828536297}
